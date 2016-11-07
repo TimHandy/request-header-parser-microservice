@@ -5,7 +5,7 @@ var http = require('http');
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
-app.enable('trust proxy')
+//app.enable('trust proxy')
 
 // this works! 
 // http.get('http://bot.whatismyipaddress.com', function(res){

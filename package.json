@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "client-ip": "^1.0.0",
     "express": "^4.14.0"
   }
 }
